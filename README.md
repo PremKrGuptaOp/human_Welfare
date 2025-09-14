@@ -75,7 +75,7 @@ The ChatGPT Clone project does not provide a public API. However, the project's 
 
 👤 Author
 --------
-The ChatGPT Clone project is maintained by [Your Name](https://github.com/your-username).
+The ChatGPT Clone project is maintained by [Prem Kumar Gupta](https://github.com/PremKrGuptaOp/human_Welfare/).
 
 📝 License
 --------

@@ -10,11 +10,3 @@ export default defineConfig({
 });
 
 
-
-echo "# human_Welfare" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/PremKrGuptaOp/human_Welfare.git
-git push -u origin main
